@@ -1,0 +1,16 @@
+C:\Users\ryanv\kvcc\cis237-assignment-2-rvanderveen18\cis237-assignment-2\bin\Debug\net5.0\cis237-assignment-2.exe
+C:\Users\ryanv\kvcc\cis237-assignment-2-rvanderveen18\cis237-assignment-2\bin\Debug\net5.0\cis237-assignment-2.deps.json
+C:\Users\ryanv\kvcc\cis237-assignment-2-rvanderveen18\cis237-assignment-2\bin\Debug\net5.0\cis237-assignment-2.runtimeconfig.json
+C:\Users\ryanv\kvcc\cis237-assignment-2-rvanderveen18\cis237-assignment-2\bin\Debug\net5.0\cis237-assignment-2.runtimeconfig.dev.json
+C:\Users\ryanv\kvcc\cis237-assignment-2-rvanderveen18\cis237-assignment-2\bin\Debug\net5.0\cis237-assignment-2.dll
+C:\Users\ryanv\kvcc\cis237-assignment-2-rvanderveen18\cis237-assignment-2\bin\Debug\net5.0\cis237-assignment-2.pdb
+C:\Users\ryanv\kvcc\cis237-assignment-2-rvanderveen18\cis237-assignment-2\obj\Debug\net5.0\cis237-assignment-2.csproj.AssemblyReference.cache
+C:\Users\ryanv\kvcc\cis237-assignment-2-rvanderveen18\cis237-assignment-2\obj\Debug\net5.0\cis237-assignment-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanv\kvcc\cis237-assignment-2-rvanderveen18\cis237-assignment-2\obj\Debug\net5.0\cis237-assignment-2.AssemblyInfoInputs.cache
+C:\Users\ryanv\kvcc\cis237-assignment-2-rvanderveen18\cis237-assignment-2\obj\Debug\net5.0\cis237-assignment-2.AssemblyInfo.cs
+C:\Users\ryanv\kvcc\cis237-assignment-2-rvanderveen18\cis237-assignment-2\obj\Debug\net5.0\cis237-assignment-2.csproj.CoreCompileInputs.cache
+C:\Users\ryanv\kvcc\cis237-assignment-2-rvanderveen18\cis237-assignment-2\obj\Debug\net5.0\cis237-assignment-2.dll
+C:\Users\ryanv\kvcc\cis237-assignment-2-rvanderveen18\cis237-assignment-2\obj\Debug\net5.0\refint\cis237-assignment-2.dll
+C:\Users\ryanv\kvcc\cis237-assignment-2-rvanderveen18\cis237-assignment-2\obj\Debug\net5.0\cis237-assignment-2.pdb
+C:\Users\ryanv\kvcc\cis237-assignment-2-rvanderveen18\cis237-assignment-2\obj\Debug\net5.0\cis237-assignment-2.genruntimeconfig.cache
+C:\Users\ryanv\kvcc\cis237-assignment-2-rvanderveen18\cis237-assignment-2\obj\Debug\net5.0\ref\cis237-assignment-2.dll

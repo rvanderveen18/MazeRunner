@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "cis237-assignment-2/1.0.0": {
+        "runtime": {
+          "cis237-assignment-2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cis237-assignment-2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
